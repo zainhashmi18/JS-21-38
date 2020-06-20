@@ -7,7 +7,7 @@ var lName=prompt("Enter Last Name: ");
 var fullName=fName+" "+lName;
 document.write("Welcome "+fullName);
 
-// Task No 2
+// Task No 2 
 var favPhone=prompt("Enter Your Fav Phone Model: ");
 var phoneLength=favPhone.length;
 document.write("My Favourite Phone is: "+favPhone+"<br>Length of String is: "+phoneLength);
